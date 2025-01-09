@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @tuxedocurly
+👋 Hi, I’m @tux
 
-
-TO:DO - Update README
+I'm a maker with a passion for code, electronics, and prototyping. Check out build guides and project videos on my [youtube](youtube.com/TuxedoMakes) channel.
